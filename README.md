@@ -2,13 +2,13 @@
   # 🔹 Components Required
   Electronic Components:
   
-  Arduino Uno – Microcontroller for processing temperature data
+    Arduino Uno – Microcontroller for processing temperature data
   
-  DHT11 or DHT22 Sensor – Measures temperature and humidity
+    DHT11 or DHT22 Sensor – Measures temperature and humidity
   
-  DC Motor (Fan) – Represents the fan whose speed will be controlled
+    DC Motor (Fan) – Represents the fan whose speed will be controlled
   
-  L298N Motor Driver Module – Controls the speed and direction of the DC motor
+    L298N Motor Driver Module – Controls the speed and direction of the DC motor
   
   # Power Supply:
   5V (for Arduino & DHT11)

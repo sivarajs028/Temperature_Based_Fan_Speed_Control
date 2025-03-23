@@ -1,6 +1,7 @@
 # Temperature_Based_Fan_Speed_Control
   # 🔹 Components Required
   Electronic Components:
+  
   Arduino Uno – Microcontroller for processing temperature data
   
   DHT11 or DHT22 Sensor – Measures temperature and humidity
